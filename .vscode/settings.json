@@ -1,8 +1,11 @@
 {
     "cSpell.words": [
         "banro",
+        "ciphertext",
         "creatematrix",
         "jsonify",
+        "newkeys",
+        "pkcs",
         "playfair",
         "railfence",
         "seft",
